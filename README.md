@@ -2,7 +2,7 @@ Daily learning
 
 # Developing a Progressive Web Application with React to Map COVID19 Data Around the World
 
-Project developed at Bootcamp Carrefour Web Developer of Digital Innovation One with guidance from specialist Bruno Carneiro.
+Project developed at Bootcamp Carrefour Web Developer of Digital Innovation One with guidance from specialist [Bruno Carneiro](https://www.linkedin.com/in/carneirobruno/ "Bruno Carneiro").
 Learning how to create a "Progressive Web Application (PWA)" using React to stay informed about all COVID19 cases around the world.
 And learning how to create an application to run in the browser and work as an application containing some features of a native application. All quick and easy, without having to go up to the Play Store or App Store.
 
